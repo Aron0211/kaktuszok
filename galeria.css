@@ -71,17 +71,20 @@ nav a:hover{
 
 article{
     grid-area: ar;
-    border: 5px solid    rgb(139, 134, 165);
     border-radius: 10px;
     background-color: rgb(185, 180, 212);
     margin: 10px;
 }
 
-article h2{
-    padding: 10px;
-    margin: 4px;
-    text-align: justify;
+article img{
+    margin: auto;
+    border: 5px solid rgb(125, 119, 156);
+    border-radius: 5px;
+    margin: 10px;
+
 }
+
+
 
 footer{
     text-align: center;
@@ -109,7 +112,6 @@ main{
         "n"
         "s"
         "ar"
-        "as"
         "f"
     ;
 }
